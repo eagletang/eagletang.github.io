@@ -127,4 +127,67 @@ Glaxo Research & Development (GRD)            rasmol@ggr.co.uk
 Greenford Road, Greenford          Tel:   (+44) 081 966 3567 (direct line)
 Middlesex UB6 0HE, UK.             Fax:   (+44) 081 966 4476
 
+http://www.umass.edu/molvis/francoeur/levinthal/lev-index.html
+http://www.umass.edu/molvis/francoeur/levinthal/Levinthaltext.html
+https://en.wikipedia.org/wiki/Molecular_graphics
+http://bioinformatics.oxfordjournals.org/content/30/20/2981.full
+In 1966, Cyrus Levinthal pioneered molecular graphics at the Massachusetts Institute of Technology, when he set up the first interactive wire-frame display of a protein on a monochrome oscilloscope (Levinthal, 1966). Since then, molecular graphics has made tremendous progress, mostly thanks to the video game industry, which induced the rise of graphics processing units (GPUs). Today many different molecular visualizers are available, e.g. VMD (Humphrey et al., 1996), Chimera (Pettersen et al., 2004), PyMol (DeLano, 2005) or QuteMol (Tarini et al., 2006), each using different tricks to boost rendering performance and quality. We describe an algorithm that can cope with two specific difficulties: first, it does not depend on high-end shader tricks and thus works on smartphones too. And second, it does not require expensive precalculation steps that depend on atom positions. It can thus visualize moving atoms, allowing to perform interactive molecular dynamics simulations on smartphones and tablets. 
+https://books.google.co.uk/books?id=YCI58U8IK5QC&pg=PA419&lpg=PA419&dq=%22Molecular+Graphics%22+%22Levinthal%22+%22term%22&source=bl&ots=SnvV4AxScD&sig=-sJHmBe_4Gd-ftrSCxYmR2nxsPE&hl=en&sa=X&redir_esc=y#v=onepage&q=%22Molecular%20Graphics%22%20%22Levinthal%22%20%22term%22&f=false
+
+https://books.google.co.uk/books?id=YCI58U8IK5QC&pg=PA419&lpg=PA419&dq=%22Molecular+Graphics%22+%22Levinthal%22+%22term%22&source=bl&ots=SnvV4AxScD&sig=-sJHmBe_4Gd-ftrSCxYmR2nxsPE&hl=en&sa=X&redir_esc=y#v=onepage&q=%22Molecular%20Graphics%22%20%22Levinthal%22%20%22term%22&f=false
+
+http://link.springer.com/chapter/10.1007%2F978-1-4684-1490-5_10#page-1
+
+https://books.google.co.uk/books?id=6a8_AAAAQBAJ&pg=PA308&lpg=PA308&dq=%22Molecular+Graphics%22+%22Levinthal%22+%22term%22&source=bl&ots=WTXdF3FC8u&sig=5yAsfnWu4p7f7kKpWYJu-IpDXfM&hl=en&sa=X&redir_esc=y#v=onepage&q=%22Molecular%20Graphics%22%20%22Levinthal%22%20%22term%22&f=false
+http://america.pink/molecular-graphics_3058267.html
+http://what-when-how.com/Tutorial/topic-203v31/The-History-of-Visual-Magic-in-Computers-348.html
+http://www.liquisearch.com/molecular_graphics/history
+History
+
+Initially the rendering was on early Cathode ray tube screens or through plotters drawing on paper. Molecular structures have always been an attractive choice for developing new computer graphics tools, since the input data are easy to create and the results are usually highly appealing. The first example of MG was a display of a protein molecule (Project MAC, 1966) by Cyrus Levinthal and Robert Langridge. Among the milestones in high-performance MG was the work of Nelson Max in "realistic" rendering of macromolecules using reflecting spheres.
+
+By about 1980 many laboratories both in academia and industry had recognized the power of the computer to analyse and predict the properties of molecules, especially in materials science and the pharmaceutical industry. The discipline was often called "molecular graphics" and in 1982 a group of academics and industrialists in the UK set up the Molecular Graphics Society (MGS). Initially much of the technology concentrated either on high-performance 3D graphics, including interactive rotation or 3D rendering of atoms as spheres (sometimes with radiosity). During the 1980s a number of programs for calculating molecular properties (such as molecular dynamics and quantum mechanics) became available and the term "molecular graphics" often included these. As a result the MGS has now changed its name to the Molecular Graphics and Modelling Society (MGMS).
+
+The requirements of macromolecular crystallography also drove MG because the traditional techniques of physical model-building could not scale. Alwyn Jones' FRODO program (and later "O") were developed to overlay the molecular electron density determined from X-ray crystallography and the hypothetical molecular structure.
+
+
+http://www3.uah.es/farmamol/Visual_3D/History_of_visualization/history.htm
+References are listed chronologically. • Kendrew, J. C., et al., A three dimensional model of the myoglobin molecule obtained by x-ray analysis. Nature, 181:662-6, 1958.
+• Richards, Frederic M. The matching of physical models to three-dimensional electron-density maps: A simple optical device. J. Mol. Biol. 37:225-230, 1968.
+• Katz, L. and C. Levinthal, Ann. Rev. Biophys. Bioeng. 1:465-504, 1972.
+• Tsernoglov, D., G. A. Petsko, J. E. McQueen, Jr., and J. Hermans, Science 197:1378-81, 1977. 
+• Feldmann, Richard J. "Atlas of macromolecular structure on microfiche", Tracor-Jitco, Rockville MD, 1977.
+• Jones, T. A. "A graphics model building and refinement system for macromolecules." J. Appl. Crystallogr. 11: 268-272, 1978.
+• Britten, E. G., J. L. Lipscomb and M. E. Pique, Computer Graphics 12:222-7, 1978.
+• Diamond, R. "Bilder User's Manual", Laboratory of Molecular Biology, Cambridge, England, 1978.
+• Diamond, R. "Proceeding of the International Union of Pure and Applied Biochemistry: International Symposium of Biomolecular Structure, Conformation, function, and Evolution", Madras, India, Pergamon Press. 
+• Feldmann, Richard J. and David H. Bing, "TAMS: Teaching aids for macromolecular structure. Teachers manual", Division of Computer Research and Technology (DCRT), NIH/PHS/DHEW, 1980. (Feldmann was at DCRT, Bing was at the Center for Blood Research and Dept. Biological Chemistry, Harvard Medical School. This manual was prepared and sponsored by DCRT, NIH, PHS, DHEW. In 1997, one of the TAMS publications was obtained via interlibrary loan from the library of the University of New Hampshire, where it was cataloged as "Chem oversize QD461.F35".) 
+• Porter, Thomas K., Computer Graphics 12:282-5, 1978.
+• Feldmann, Richard J., David H. Bing, B. C. Furie, and Bruce Furie, PNAS US 75:5409, 1979.
+• Richardson, Jane S., and David C. Richardson, Principles and patterns of protein conformation. In: Prediction of protein structure and the principles of protein conformation, G. D. Fasman, ed., Plenum Press, NY. pp. 1-98, 1989. CHAOS, a program which preceded MAGE, is utilized in this paper.
+
+https://sbgrid.org/software/tale/wire-models-wired
+http://www.openrasmol.org/history.html
+https://books.google.co.uk/books?id=4ZKvAAAAQBAJ&pg=PA265&lpg=PA265&dq=%22Molecular+Graphics%22+%22Levinthal%22+%22history%22&source=bl&ots=MwICsdOk9r&sig=rr_JUPMVV3GVNF8D-jBJUmXMHBM&hl=en&sa=X&redir_esc=y#v=onepage&q=%22Molecular%20Graphics%22%20%22Levinthal%22%20%22history%22&f=false
+
+www.yasara.org/why.htm
+https://books.google.co.uk/books?id=YTvLAwAAQBAJ&pg=PA51&lpg=PA51&dq=%22Molecular+Graphics%22+%22Levinthal%22+%22history%22&source=bl&ots=61rELePTXc&sig=1f_nTA86XMUEAcWausIKmkpXgU0&hl=en&sa=X&redir_esc=y#v=onepage&q=%22Molecular%20Graphics%22%20%22Levinthal%22%20%22history%22&f=false
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
