@@ -1,0 +1,130 @@
+https://books.google.co.uk/books?id=Ne0yIOLXrCoC&pg=PA28&lpg=PA28&dq=%22%E5%88%86%E5%AD%90%E5%9B%BE%E5%BD%A2%E5%AD%A6%22&source=bl&ots=6IvqmgmDo9&sig=cZ4Bk1oA8APtIb7wz-ogxgdenmM&hl=en&sa=X&redir_esc=y#v=onepage&q=%22%E5%88%86%E5%AD%90%E5%9B%BE%E5%BD%A2%E5%AD%A6%22&f=false
+https://books.google.co.uk/books?id=gI2PrRqIXTMC&pg=PA168&lpg=PA168&dq=%22%E5%88%86%E5%AD%90%E5%9B%BE%E5%BD%A2%E5%AD%A6%22&source=bl&ots=4-IjEF0fKa&sig=kDYf-L8hbK22cLrnsZNcM01old0&hl=en&sa=X&redir_esc=y#v=onepage&q=%22%E5%88%86%E5%AD%90%E5%9B%BE%E5%BD%A2%E5%AD%A6%22&f=false
+http://www.mgms.org/
+http://www.sciencedirect.com/science/book/9780123408204
+http://pubs.acs.org/doi/abs/10.1021/ed065pA330
+http://onlinelibrary.wiley.com/doi/10.1002/0471223840.ch4/summary
+https://books.google.co.uk/books?id=xnzCAgAAQBAJ&pg=PA393&lpg=PA393&dq=%22Molecular+Graphics%22+%22book%22&source=bl&ots=XfFkbqFRHv&sig=jO-CcNyhPvJ8YUMGD8UyEQQCNWU&hl=en&sa=X&redir_esc=y#v=onepage&q=%22Molecular%20Graphics%22%20%22book%22&f=false
+https://www.umass.edu/microbio/rasmol/pershist.txt
+Date: Mon, 03 Apr 1995
+From: Sayle Dr R A
+Subject: Re: Suggestions
+To: Eric Martz <emartz@microbio.umass.edu>
+
+You also asked for a short history of RasMol.
+
+I did my first degree at Imperial Collge, Univeristy of London.  I spent 
+my first summer working there working in the Computer Graphics section
+preparing images for a text book they were writing on the subject, 
+published by Addison Wesley.  Because of this work, i.e. I'd written the 
+questions in the course text, I was advised not to do computer graphics 
+as one of my final year options, but instead choose to work on parallel 
+and distributed programming.
+
+It was about this time, 1989, that I met some crystallographers, in the 
+Biophysics Department at Imperial.  Their original "vector" based Evans 
+& Sutherland PS300 displays were being replaced with new Silcon Graphics 
+workstations.  Biochemistry was shifting its emphesis from bonds and 
+connectivity to surfaces and interactions.  This resulted in a loss of 
+depth information from the depth-cued (hither-and-yon) that was available 
+with vectors and dots.  The two possible ways of increasing depth 
+perception was to add shadowing from a light source and allow images to 
+be manipulated in real-time.  At that time these were mutually exclusive, 
+some of the images that I'd generated two years earlier had taken 9 hours 
+to generate with shadows.
+
+This seemed to perfect final year parallel programming project. Spheres 
+were the easiest graphical object to draw, and hopefully the parallel 
+machines available at the time would achieve some speed-up on the 
+problem. Hence the birth of RasMol, for shadowed RASter MOLecules (the 
+fact that RAS are my initials was probably conincidental :).
+
+My final year project "Parallel Algorithms for Molecular Graphics" was 
+then spent comparing different algorithms for speeding up ray-tracing on 
+parallel computers.  When I finished I'd won the University of London 
+prize and had the second fastest program in the world for displaying 
+shadows on spacefilling molecules.  The fastest at this time was an 
+implementation of Raster3D running on the 800 processor Edinburgh 
+Parallel Supercomputer.
+
+For completely, different reasons I did my PhD in the Computer Science 
+department at the University of Edinburgh, studying the ways that 
+programs could automatically be made more efficient.  While there I met 
+Dr Andrew Coulson, the mentor of RasMol, in the Biocomputing Research 
+Unit.  I discovered that the improvements that made Raster3D go faster 
+could also be applied to RasMol.  Slowly, in my spare time, RasMol with 
+and without shadows, got faster and faster on a parallel computer untill 
+the communication between computers became a significant problem. At
+first the maximum performance was on 16 processors, then 12, then 8, then 
+4 and finally I decided to port it to a UNIX workstation.
+
+At this time, RasMol when run would only pop up a picture of crambin, 
+rotate it 20 times, stop and print out how long it had taken.
+
+At this point Andrew said wouldn't it be nice to change the colours of 
+the atoms, wouldn't it be nice to display a wireframe model. This went on 
+for another four years, my knowledge of protein structure completely 
+demand driven.  I'd just be given a recent paper on hydrogen bonding in 
+proteins and asked to see if RasMol could be made to implement it. By 
+the time, I came to complete my PhD RasMol was already being used in four 
+departments within the University of Edinburgh.
+
+As a parting gesture, I made RasMol (UNIX and PC) public domain and placed 
+it on the internet in June 1993.  And once again the requests started 
+over...  Although RasMol was public domain, version 2.0 included a line 
+to the effect "if you find this software useful, please send $40 to me".
+However, the first two cheques I received were from a childrens hospital 
+and a neurology department at a genral hospital, yet several 
+multinational corperations had taken copies of RasMol.  I sent the 
+cheques back and never cashed them.  With the exception of version 2.6 
+(due to be released soon), a new version of RasMol has been announced 
+every four months.
+
+In January 1994, I was offered a temporary (2 month) position at Glaxo 
+Research and Development.  Glaxo admitted that it made large use of 
+RasMol, but had no mechanism for paying for RasMol accept giving me 
+money to work on RasMol there.  Until then I'd been scraping a living a 
+a research assistant/lab demonstrator in Edinburgh. This "temporary" 
+arrangement has lasted a year and a half, allowing me access to a 
+(bio)chemistry oriented user-group and provided the funding for me to 
+develop a Apple Mac version at Glaxo Research Inc in the US.
+
+RasMol is probably one of the most widely used molecular graphics 
+programs in the world, currently being used at over 10,000 sites.
+For example, the French Education Ministry will shortly distribute 
+RasMol to every univeristy, secondary school and teacher training college 
+in France.  In addition to both English and French, the RasMol user 
+manual has also been translated into Thai.  RasMol is very heavily used 
+in under-developed countries were universities can't afford the high 
+prices of commercial software packages.
+
+I hope this provides some insight.  You might want to display a short 
+extract from one of RasMol's ChangeLog files that lists the continual
+evolution of RasMol thanks to bug reports, suggestions and improvements 
+provided by the community.
+
+As you now realise, I have had no (very little) formal biochemistry or 
+molecular biology training, and much of what I know has been a result of 
+conversations and e-mails with people much brighter than I.  For example, 
+Andrew Coulson was been very patient in explaining why handedness was 
+important.  In computer graphics, it doesn't matter whether the z-axis 
+goes into or out from the screen.  Similarly, I once knocked on his door 
+and explained that I couldn't find the second chain in a PDB file of a 
+tRNA when I was trying to determine nucleic acid hydrogen bonding.  It 
+was even Stryer (of text book fame) who first suggested a pause command.
+Some of the improvements in RasMol were suggested by David Richardson,
+Mage's author, while I was over in North Carolina.
+
+Hence the real credit for RasMol is from the user community that have 
+provided the feedback on how it can be further improved.  My single 
+contribution is a little used menu item on the options menu.
+
+
+Roger
+-- 
+Roger Sayle                        INTERNET:  ras32425@ggr.co.uk
+Glaxo Research & Development (GRD)            rasmol@ggr.co.uk
+Greenford Road, Greenford          Tel:   (+44) 081 966 3567 (direct line)
+Middlesex UB6 0HE, UK.             Fax:   (+44) 081 966 4476
+
+
