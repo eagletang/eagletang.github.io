@@ -194,4 +194,110 @@ colored wire frame: bonds are represented as colored wires of which one half
 has the color of one atom and the other half of the other atom.
 
 
+http://www-personal.umich.edu/~lpt/Modeling/lab15.htm
+Molecules are typically rendered on a computer screen in several different modes, depending on software/computer power and the needs of the user. Some useful forms:
+
+Wireframe - bonds are depicted as thin lines with coloring indicating the atoms that are involved. The atom suggested by the color is at the end of the line representing the chemical bond. The color scheme (against a black background) is typically
+
+ Carbon = white or gray
+ Nitrogen = blue
+ Oxygen = red
+ Sulfur = yellow
+ Halides = light green
+ Hydrogen = white or cyan
+ 
+Rods or sticks - the same as wireframe, except the diameter of the line connecting atoms is much larger. Since wireframe typically produces a poor quality captured or photographic image, rod format is sometimes considered a "photographic quality" wireframe rendering.
+ 
+Ball & Stick - atoms are represented as small spheres and chemical bonds as rigid rods between them. The coloring scheme is the same as for wireframe.
+ 
+Spacefilling - molecules are represented as spheres whose size is representative of the the atom's van der Waal's radius. The coloring is the same as wireframe.
+
+http://www.ks.uiuc.edu/Research/vmd/vmd-1.7.1/ug/node54.html
+Lines
+
+The default representation is `Lines', which is also known as `wireframe'. It draws a line between each atom and the atoms to which it is bonded. Both atoms have to be selected before the bond will be drawn. The first half of each bond is colored appropriately for the first atom, while the color of the final half corresponds to the second atom.
+The only parameter for this option is the line thickness. On some SGIs you will only notice a difference between settings of 0, 1, and 2. Anything beyond 2 looks the same as 2. To understand why, you should see the man page for linewidth (look at an excerpt from that man page in section §).
+
+http://mcb.berkeley.edu/labs/krantz/pdf/chimera_quick_reference.pdf
+
+
+http://ugovaretto.github.io/molekel/wiki/pmwiki.php/ReferenceGuide/DisplayStyle.html
+http://128.95.152.162/summarypage/xyzfiles/quickhelp.htm
+
+http://mariovalle.name/ChemViz/representations/
+Data representation in chemistry
+
+Chemists usually deal with a narrow range of data types. In this page I will try to understand them.
+Chemistry visualization uses a limited, traditional set of representations for those data.
+I am convinced that more complex data types and unusual representations could help bring new insights in the chemistry research.
+Otherwise the risk is this: “A stagnant set of representations limits the way scientists think about their models and thereby limits potential insights”.
+So I collected this material as one of the inputs for a research underway about representation in chemistry and the support or constrain provided by the current chemistry visualization tools.
+My hope is that this work could help me in creating and proposing new visualization tools and techniques. And, maybe, catalyze new ideas for the chemists I collaborate with.
+What you find here
+Here you find a collection of images from various chemistry visualization tools together with open questions about their usefulness and their specific goals.
+At the end a list of missing things that could be added and a collection of new and unusual representations found here and there. Plus a list of representation ideas.
+Usual disclaimer
+I am not a chemist, but work with them. I eagerly try to learn new things in this field, so mistakes and misunderstanding are only mine.
+To make this page more useful to you, I need your inputs, ideas and pointers. Do not be shy, send them to me. Thanks!
+Chemistry data types
+
+Chemistry visualization deals with a narrow range of data types. The most important are:
+Structural information
+E.g. atoms and bonds plus associated attributes like charge. The structures could be time dependent to show reactions or evolution of phenomena.
+Volumetric data
+Usually scalar variables like electron density, ELF, orbitals. A less usual, but similar data type is volumetric vector data found, for example, in electronic currents or magnetic lines.
+1D scalar
+E.g. spectra, energy vs. simulation step.
+2D scalar
+E.g. COSY and NOESY spectra, two parameters energy landscapes.
+Chemistry data representations
+
+After a brief discussion about why a chemist should be interested or not interested in 3D representations, the various images are grouped as:
+Pure structural – various forms of ball-and-stick
+A digression on bonds representation
+Structural with associated data
+Time dependent structural
+Summarizing methods
+An important tool is the computation of molecular surfaces
+Volumetric data
+Scalar data
+Vector data
+Non volumetric data
+1D scalar
+2D scalar
+
+
+https://www.cgl.ucsf.edu/chimera/docs/UsersGuide/representation.html
+http://www.ccl.net/cca/documents/molecular-modeling/node3.html
+
+https://en.wikipedia.org/wiki/Space-filling_model
+
+https://www.umass.edu/microbio/rasmol/rasbonds.htm
+
+http://www.ualberta.ca/dept/chemistry/computational/wxmacmolplt-7.0/src/myPrefs.cpp
+
+https://www.chemaxon.com/marvin-archive/6.1.3/marvin/help/formats/images-doc.html
+https://cactus.nci.nih.gov/vrmlcreator/vrml_info.html
+
+http://85.214.192.197/Projects/PDBProcessing/
+
+http://www.chem.canterbury.ac.nz/LetsTalkChemistry/ElectronicVersion/ElectronicVersionNew/chapter04/section4.shtml
+
+http://techpubs.sgi.com/library/dynaweb_docs/0530/SGI_Developer/books/MolInv_PG/sgi_html/ch04.html
+http://www.webmo.net/download/WebMO_Users_Guide.pdf
+http://www.geocities.jp/kmo_mma/crystal/download/VESTA_Manual.pdf
+
+https://web.chemdoodle.com/docs/api/
+
+http://www.scd.stfc.ac.uk/support/40511.aspx
+
+http://linux.die.net/man/1/molecule
+
+http://www.virology.wisc.edu/acp/tutorials/MolGraphics-intro.pdf
+
+http://molview.org/
+
+
+
+
 
