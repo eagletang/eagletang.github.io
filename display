@@ -154,3 +154,44 @@ isplay菜单中选择Spacefill模式，便显示出所选中的原子。用鼠�
 分子坐标文件常称作PDB文件，这是因为Protein Data Bank格式是使用最广泛的格式。
 最主要的蛋白质与核酸3D结构来源是Protein Data Bank站点（http://www.rcsb.org/p
 db/）。
+
+http://butane.chem.uiuc.edu/jsmoore/chem232/notes_current/Models_and_Lingo/NOTES-Molecular_Models.pdf
+
+http://www.scm.com/Doc/Doc2014/GUI/GUI_reference/page14.html
+
+http://avogadro.cc/wiki/Wireframe
+The wireframe view draws a thin line for bonds and a small square dot for atoms.
+
+Settings
+Atoms can optionally be shown or hidden.
+Multiple bonds can optionally be shown.
+
+http://www.cgl.ucsf.edu/chimera/1.1700/docs/UsersGuide/representation.html
+Molecular Representations
+
+Several types of molecular representation are available in Chimera, and more than one type can be present in a single display. The default representation is a simple line or wireframe drawing in which atoms are shown as dots and bonds as wires. Further options are stick with "endcap" atoms and stick bonds, ball-and-stick with ball (small sphere) atoms and stick bonds, and sphere with sphere (full VDW radius) atoms and stick bonds. The sphere representation is also called a Corey-Pauling-Koltun (CPK) model. In addition, proteins and nucleic acids can be drawn as a ribbon, and proteins with PDB secondary structure records can be drawn as "pipes and planks."
+
+
+
+http://telem.openu.ac.il/symmetry/csm/english/jmol_help.html
+Scheme - several display formats are avaliable. Among them are:
+Ball & Stick - sticks represent chemical bonds and balls represent atoms.
+Wireframe - lines represent chemical bonds and vertices represent atoms.
+Sticks - sticks represent chemical bonds and vertices represent atoms.
+
+http://www.shapesoftware.com/
+
+https://books.google.com.hk/books?id=tgHl-4Ndvo4C&pg=PA213&lpg=PA213&dq=Wireframe+representation+bonds&source=bl&ots=2Bomov_kV9&sig=Bf8wuqUmh0KKNan-ErQKG-AYRPU&hl=zh-TW&sa=X&ved=0ahUKEwiWjOaXnajKAhVFXhQKHUduDAsQ6AEISjAG#v=onepage&q=Wireframe%20representation%20bonds&f=false
+ball and sticks: balls of appropriate radius (proportional to the van der waals radius) and 
+different colors are used to represent atoms and sticks to
+represent bonds between he atoms
+wire frame: only bonds (shown as thin wires) are represented;
+space filling: atoms are represented as large balls of the proper radius
+(given by a scaled van der waals radius) and color, filling the internuclear space;
+space filling and wire frame: a mixed use of space filling and wire frame 
+representatoins is made.
+colored wire frame: bonds are represented as colored wires of which one half
+has the color of one atom and the other half of the other atom.
+
+
+
