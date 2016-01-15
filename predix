@@ -29,6 +29,97 @@ Microsoft
 
 https://thingspeak.com/
 
+http://www.iotleague.com/list-of-10-iot-frameworks-and-platforms/
+The Internet of Things (IoT) refers to smart machine-to-machine (M2M) interconnection technology enabled by secure connectivity and appropriate infrastructure, to reliably transform data into useful information for people, businesses, and institutions with appropriate analytics. The appropriate infrastructure could be a hybrid compute and store mechanisms like cloud stack and BigData technologies.
+ Lots of IoT frameworks and/or platforms with different enterprise offerings and alliances have come up recently to increase the connectivity of devices into private and/or public networks/cloud. Key to a successful IoT implementation is the interoperability among various devices, robust IoT Frameworks and platforms that enable the same with a powerful analytics that enable applications to be built on top of it. Additionally these platform also need to provide value added services that increase the attractiveness for adoption of their solutions in enterprises.
+ This is an effort to capture details of various platforms that enable IoT and the standards efforts to increase interoperability among the devices.
+
+IoT Frameworks And Platforms: 
+ Basic components of IoT Value Chain as highlighted below in Figure 1 are part of the offerings that are provided by various players in this space. Due to the evolution of these platforms the composition of features offered varies and over period of time may converge into these architectural blocks.
+
+Figure 1: IoT Value Chain 
+Figure 1: IoT Value Chain
+
+IoT platforms evolved from two different directions. Those providing Devices and their connectivity solutions in private networks moved to the internet/public cloud. Other approach was the cloud provider’s added IoT protocols and application support to enhance the reach of their platform to multiple industries. Here below are the different framework and platform providers that are prevalent in the industry.
+IoT Providers With Cloud Connectivity: 
+
+RTI: RTI is one of the oldest and pioneer Internet of Things Platform provider, they claim to be the Most Influential Industrial IoT Company.
+
+RTI
+Figure 2 – RTI Connext DDS Architecture
+
+Connext DDS is specifically designed for intelligent machines and their related cyber-physical systems. Unlike messaging middleware designed primarily for IT systems, Connext DDS does not require message brokers, directory services, servers or administration. The core messaging infrastructure is wholly contained in libraries linked into your applications. Connext DDS can provide a unified message bus across Operational Technology (OT) systems deployed at the edge and IT systems deployed in a data center or cloud. It also integrates easily with an existing enterprise messaging systems or Enterprise Service Bus (ESB).
+ Market Addressed includes Aerospace, Energy, Transport, Industrial equipment and factories, Medical devices, Trading and Betting, Unmanned vehicles etc. FastTrax program helps in adopting their platform to the customer needs.
+
+ThingWorx: ThingWorx is one of the earliest IoT software platform designed to build and run the applications of smart, connected products.
+
+thingworkx
+Figure 3 – ThingWorx platform architecture
+
+Platform contains tools to perform end-to-end application modeling, create user interfaces with mashups, event driven execution engine, device (thing) management, intelligence tools etc.
+ Market Addressed includes Aerospace, Automotive, Consumer products, Electronics and HighTech, Industrial equipment, Medical devices, Smart cities and all other Smart initiatives.
+
+Cisco: Cisco offers new ways to manage and store data in the cloud and data center. Cisco offers products, services consulting, and industry-specific solutions that can improve productivity and efficiency in manufacturing, mining, oil and gas, transportation, and utilities.
+ Cisco IoT Cloud Connect components are offered in multiple packages, giving greater flexibility for a more successful service offering as shown in Figure below
+
+cisco
+Figure 4 Cisco Cloud Connect Platform
+
+Industry’s most complete, fully virtualized packet core, the new Cisco Virtualized Packet Core solution redefines agility for service providers and offers ways to capture untapped revenue opportunities, particularly with the proliferation of Internet of Everything (IoE) and M2M connections. The Cisco Virtualized Packet Core solution combines all packet core services – for 4G, 3G, 2G, Wi-Fi, and small cell networks – into a single solution. Since these services are virtualized, they can scale capacity and introduce new services much more quickly and cost effectively.
+
+SalesForce: SalesForce
+ Powered by Thunder, IoT Cloud connects all your data from the Internet of Things to the rest of Salesforce for better insights and real-time customer actions.
+
+Figure 5 SalesForce IoT
+Figure 5 SalesForce IoT
+
+Salesforce Thunder is the world’s most scalable event processing engine designed to ingest and orchestrate billions of events from the connected world in real time. Thunder enables businesses to unlock insights that were previously invisible and allows anyone to take proactive, personalized actions from any device to get closer than ever to customers.
+ Market addressed is similar to all enterprises using SalesForce today.
+
+GE Predix: GE Predix Aims to be your cloud platform for the Industrial Internet. Initiated by General Electric, Predix platform aims to connect industrial assets to the cloud and to each other for asset performance management, operations optimization, and better profitability.
+
+ge predix
+Figure 6 GE Predix platform
+
+GE wants this platform to be utilized in various industries where it can provide algorithms that can be readily utilized with monetization from it and provide a community platform for developers in other industries to develop algorithms for monetization purposes.
+
+CLOUD PROVIDERS OFFERING IOT CONNECTIVITY: 
+
+IBM BlueMix: IBM BlueMix is an open standards, cloud platform for building, running, and managing apps and services.
+ BlueMix provides a single development and management experience across any combination of public, dedicated, and local BlueMix instances. It allows choosing where apps, data, and other services can live without compromising on the speed and economics of the cloud.
+
+Figure 7 IBM Bluemix Deployment options
+Figure 7 IBM Bluemix Deployment options
+
+Bluemix tools help securely connect to different environments, transform and synchronize data, and create and expose enterprise APIs to the BlueMix catalogue. It provides development teams of all sizes with the flexibility to scale compute power at a very granular level, seamlessly collaborate on source code and shared APIs, and manage apps’ performance, logs and costs from a single dashboard.
+
+AWS IoT: AWS IoT
+ AWS IoT is a platform that enables you to connect devices to AWS Services and other devices, secure data and interactions, process and act upon device data, and enable applications to interact with devices even when they are offline.
+
+Figure 8 Amazon AWS IoT
+Figure 8 Amazon AWS IoT
+
+They provide SDK that can enable writing applications that connect devices all the way up to hosting the data and writing applications that can utilize the data for workflow and analytics.
+
+Azure IoT: Azure IoT Suite is an offering from Microsoft designed to get customers started quickly and realize business value from IoT. It can be up and running with a fully functional pre-configured solution in a matter of minutes and can provide a set of ‘virtual devices’ that run in the cloud to visualize the entire solution working end to end without having to connect a physical device!. Azure IoT Suite also takes care of the tasks of deploying and orchestrating the various services to give a complete end to end solution. Azure IoT device SDK, is an open source set of client libraries that run on a variety of operating systems and devices. SDK also provides step by step guidance and sample code that makes it easy to build prototypes with real devices that interact with the Azure IoT Suite.
+ With the Microsoft Azure IoT Suite, one can monitor assets to improve efficiencies, drive operational performance to enable innovation, and employ advance data analytics to transform company with new business models and revenue streams.
+
+Figure 9 Microsoft Azure IoT
+Figure 9 Microsoft Azure IoT
+
+Azure IoT Suite also offers specific industry vertical solutions for Energy, Transportation, Smart cities, Manufacturing and Healthcare.
+
+OpenSensors: OpenSensors is an Internet of Things company providing public and private infrastructure for real-time data. They aim to make it easy for people to connect, deploy and remotely manage large deployments of sensors and internet-connected devices in the field at scale and easy to create smart products. They also provide the means to subscribe to and reuse publicly available real time data. From PCs to Raspberry Pis, Android to Electric Imp, platform is completely hardware agnostic. Anyone can connect one or many devices and publish Open Data through OpenSensors for free using the messaging broker. Open Data is publicly accessible, shareable and reusable by and for anyone. Anyone can search for public data easily such as earthquake, transport and air quality. Users can also choose to keep their data private for monthly paid subscriptions. It is backed by ‘Open Data Institute’ whose founders are Sirs Tim Berners-Lee (Inventor of the World Wide Web) and Nigel Shadbolt (Researches in intelligent behavior that is embodied and emerges in humans, machines and on the Web). ODI is an independent, non-profit, non-partisan, and limited by Guarantee Company. They have large mindshare in the smart cities, Agriculture, Nutrition and other projects in UK and other parts of world.
+
+Verizon ThingSpace: Verizon ThingSpace is the latest entrant in the IoT landscape. Verizon Connectivity Management API allows to add and activate devices, check their status, monitor their usage, and perform other device connectivity management tasks through a REST API. The API can be used to add connectivity management to anything from small apps to enterprise software systems, such as enterprise resource planning (ERP), supply chain management and customer service management. The API provides a secure, standards-compliant REST interface to the web services at the Verizon M2M Data Center.
+
+Verizon
+
+ThingSpace platform tracks the entire life cycle of devices that are connected to the platform. It also provides simulator to test the device API’s and once the application is developed credentials can be changed to point to actual devices and get them involved in the platform.
+
+
+
+
 
 
 
