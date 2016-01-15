@@ -1,0 +1,75 @@
+molecular algorithm spline ribbon
+http://www.generative-modeling.org/V3D2/pubs.collection/BioBrowser/g1655_halm_a.pdf
+https://books.google.com.hk/books?id=_u0-2ept3ikC&pg=PA414&lpg=PA414&dq=molecular+algorithm+spline+ribbon&source=bl&ots=YDh_W8JtxN&sig=bAFiPnpm8fspzwkr3dm-xJHijy4&hl=en&sa=X&redir_esc=y#v=onepage&q=molecular%20algorithm%20spline%20ribbon&f=false
+https://books.google.com.hk/books?id=4H_ai7ivRIcC&pg=PA254&lpg=PA254&dq=molecular+algorithm+spline+ribbon&source=bl&ots=mdcxJ3PId2&sig=38dlNIdixNbDVPpGa_NmFyrltss&hl=en&sa=X&redir_esc=y#v=onepage&q=molecular%20algorithm%20spline%20ribbon&f=false
+
+http://www.ncbi.nlm.nih.gov/pubmed/2280263
+
+molecular algorithm representation
+
+"molecular graphics" algorithm 
+http://www.cs.umd.edu/gvil/visproteomics.shtml
+http://www.ncbi.nlm.nih.gov/pubmed/7608746
+
+http://principlesofproteinstructure.blogspot.co.uk/2013/02/molecular-graphics-before-and-beyond.html
+Molecular Graphics: Before and Beyond Jmol 
+
+
+
+A quarter of a century ago, molecular graphics was a slow process. It was possible to generate high quality images of protein structures, but the programs were all expensive, command line driven and very slow. They were, therefore, almost out of the reach of students and of biologists working at the lab bench. 
+What changed everything - and, incidentally, made courses like Principles of Protein Structure possible - was a little program called Rasmol. This program was the first free tool to offer real-time manipulation (rotation and zooming) of structures as complex as proteins on "ordinary" desktop PCs. Its author, Roger Sayle, wrote the first version as a final-year project for his BSc in Computer Science at Imperial College; at the time it was, remarkably, the second fastest molecular graphics algorithm in the world. It was released to the worldwide biomolecular research community in 1993 and at its peak had over half a million users. 
+
+When the Principles of Protein Structure course was first launched in the late 90's, Rasmol was the obvious molecular graphics program for us to choose. In the first years of the course, however, there were no movable molecules embedded in the course web pages. Instead, students had to download molecular structure files from the PDB or Birkbeck's own server, save them and open them using Rasmol. This worked very well for a number of years; in 2000, soon after the MSc course started, Roger Sayle was awarded the Heatley Medal from the Biochemical Society for "exceptional work that makes biochemistry widely accessible and usable”. 
+
+But even by 2000 Rasmol was beginning to lose its popularity. Students and others with little experience of command lines were finding it increasingly "clunky" to use. Roger moved on from Glaxo - now part of GSK - where he had been continuing to develop the code; he founded and is still CEO of cheminformatics company NextMove Software, based in Cambridge, UK. Several new developers then spawned different Rasmol versions. The original algorithms also lived on in two programs that allowed the software to be embedded into web pages: first Chime and then Jmol, which, as you know very well, is widely used today. 
+
+But even Jmol has its disadvantages, particularly when it comes to publication. As PPS students, you should already have experimented with using Jmol to create still images showing protein structures in a particular orientation and format. These images look great if presented electronically, but their resolution is 72 dpi (dots per inch, a unit that is still widely used in publishing) which is not enough for print publication. Most journals insist on all figures being of at least 300 dpi. There is much more about this in Section 4 of the PPS course, under "Writing a paper or report". 
+
+Your projects for PPS (and for TSMB, if you go on to do that course) are to be written as Web based dissertations, so this will not necessarily be an issue for you. We will be perfectly happy if you generate your images using Jmol or Rasmol. (We will be considerably less happy if you copy them from external sources, however high quality they are, but that is for another occasion.) You may, however, want to try out some more advanced software that generates high quality images, and we will be delighted if you do! 
+
+There are many programs available for molecular graphics and modelling, and we will be describing some of the "modelling" aspects of these in much more detail in section 9 of the course, Molecular Forces in Proteins. For high quality graphics only, however, I would like to recommend three programs that are all "more or less" free: PyMol, Chimera and CCP4mg. All these programs allow users to make publications quality images of molecules in a wide variety of formats, and, interestingly, all also allow users to make simple movies. If you have ever been in a lecture and wondered how the speaker could automatically rotate and zoom into a structure to show the active site in detail, you need do so no longer. 
+
+These two pictures should illustrate the difference. The top one is taken from the PPS course material and shows an close-up of an image generated in Rasmol; it is clearly pixelated. The lower one shows part of a spacefilling image generated using PyMol at a rather similar scale; it is much better quality although still not perfect (if you look carefully you will see that the spheres are not quite spherical). Similar quality images can be produced using Chimera and CCP4mg. 
+
+
+
+ 
+Zoomed image of part of a protein molecule saved using Rasmol 
+
+ 
+
+Zoomed image of part of a protein molecule saved using PyMol 
+
+
+PyMol was written by a young researcher at the University of California San Francisco, Warren Lyford DeLano, and he founded his company DeLano Scientific LLC, to promote it as "an experiment in the commercial viability of an open source software company". This lasted only until DeLano's death in 2009 at only 37; the program is now supported by Schrodinger and is only available free to "bona fide students and educators" - a category that, of course, includes PPS tutors and students. 
+Chimera also hails from the University of California San Francisco. It has been developed within the university's biocomputing department and, thanks to NIH support, remains free to all but industrial users. It has been developed alongside DOCK, a public domain program for "docking" small molecules such as drugs into protein active sites, and it makes creating the complex input files that are needed to run DOCK a lot easier. 
+
+CCP4mg is the UK's main contribution to the field of high quality, public domain molecular graphics programs. It is part of the CCP4 software suite for protein crystallography and includes facilities for displaying the electron density maps that that technique generates as the first step towards solving a structure. You will learn a lot more about this if you take the second year protein crystallography option in the MSc, and some if you take the more general course, TSMB. 
+
+Do explore any of these programs if you like and if you have time. But I must end by reassuring you that we are not expecting you to use any of them - Rasmol or Jmol will be fine for the Web based dissertations that form part of this MSc. 
+
+
+
+(A version of this post will be appearing as the Cyberbiochemist feature of the Biochemical Society's membership magazine, The Biochemist, in April 2013.) 
+
+
+http://www.sciencedirect.com/science/article/pii/026378559380073Z
+http://www.ccp4.ac.uk/MG/ccp4mg_help/tutorial/investigating.html
+http://www.baaden.ibpc.fr/vis.html
+https://www.cs.uic.edu/~tj/netsci_surf.html
+
+https://www.ics.uci.edu/~eppstein/gina/molmod.html
+
+http://people.cs.uct.ac.za/~jgain/publications/Carbohydra.pdf
+http://www.global-sci.com/freedownload/v13_61.pdf
+
+
+
+
+
+
+
+
+
+
+
