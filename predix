@@ -117,6 +117,268 @@ Verizon
 
 ThingSpace platform tracks the entire life cycle of devices that are connected to the platform. It also provides simulator to test the device API’s and once the application is developed credentials can be changed to point to actual devices and get them involved in the platform.
 
+http://www.cio.com/article/3017403/internet-of-things/welcome-to-the-enterprise-of-things-an-analysis-of-enterprise-iot-in-2016.html
+
+It was an interesting year for the enterprise IoT space in 2015 and 2016 promises to be even better. In 2015 we witnessed the launch of brand new IoT platforms by major software vendors and startups as well as an increasing activity of consolidation and M&A in the space. As a result, 2016 should bring us a lot of activity in enterprise IoT initiatives. This article presents a taxonomy of the enterprise IoT market in 2016 that will help organizations evaluating this type of solutions and platforms. 
+
+
+  
+   
+   
+   
+   
+   
+   
+   
+ 
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reCAPTCHA challenge image Get a new challengeGet an audio challengeGet a visual challengeHelp  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CIO | Dec 22, 2015 5:06 AM PT  
+Like this article? thumbsup 0 thumbsdown  
+
+
+
+ 
+
+
+	
+RELATED TOPICS Internet of Things
+ Cloud Computing
+ IT Strategy
+ 
+
+
+
+
+Comments
+   
+
+ 
+
+
+
+
+How will the enterprise Internet of Things (IoT) market in 2016 help enterprises evaluate IoT solutions? Let’s start by taking a look at some of the key developments of enterprise IoT in 2015.
+
+
+
+
+Hot stuff 
+10 hottest tech skills for 2016 
+
+Gunning for a banner year in IT? Make sure you have these skills in your toolbox. 
+
+Read Now
+
+Key developments of enterprise IoT in 2015
+
+2015 was an incredibly active year for IoT in the enterprise. The emergence of new platforms and solutions, the decline of others and the increase of M&A activity dominated the headlines of 2015. In general, 2015 can be seen as a year in which the enterprise community have come to accept IoT as one of the trends that will be pivotal in the next decade of enterprise software. Trying to summarize the enterprise IoT space in 2015 in five points is not easy, but here are some of the key developments in the space.
+
+Big PaaS embrace IoT
+
+2015 saw big platform as a service (PaaS) providers like Microsoft Azure, AWS, Salesforce, and IBM launch new IoT platforms. While PaaS solutions have included IoT services for a while, they didn’t have complete IoT platform offerings. This changed completely in 2015, Salesforce announced its IoT Cloud solution at Dreamforce, Microsoft released Azure IoT Suite, and Amazon also announced its AWS IoT solution. More recently, IBM expanded its IoT Foundation with cognitive services powered by IBM Watson.
+
+
+
+All these releases are very effective attempts to compact the enterprise IoT space, as the aforementioned PaaS solutions can leverage their mainstream distribution within enterprise customers. Additionally, the entrance of PaaS vendors in the IoT space is going to make it more challenging for new startups to gain mainstream market share in an increasingly competitive market.
+
+GE is all in
+
+Not trying to highlight a single vendor, but the commitment and performance of GE’s industrial IoT solution is rather impressive and a strong validation of the space. Based on statements from a few months ago, GE was predicting that its Predix IoT platform will generate over $5B in 2015. Those revenue multiples are significantly larger than any other players in the space.
+
+From an enterprise perspective, GE commitment of the IoT space represents an important step bringing industrial solutions to the digital age. Predix is certainly a robust platform from the feature standpoint and it includes many industry-specific capabilities that are not present in mainstream IoT offerings.
+
+
+
+
+IoT security hero image
+
+
+
+internet of things 2015
+
+
+
+Internet of Things IoT stock
+
+
+
+
+
+
+
+
+
+
+ 
+The Future of Process 
+ 
+
+BrandPost  Sponsored by K2  
+
+The Future of Process 
+
+As we gain access to more content and context, we ’ ve created a need for greater analysis of that data. Like so much software in the enterprise has evolved, the future of BPM and process will be a far cry from the...
+
+
+Enterprise IoT startups are emerging everywhere
+
+2015 saw the emergence of a large number of IoT startups in the enterprise space. Like many other fast growing enterprise trends, new startups are trying to capture meaningful market share in the IoT space. From isolated infrastructure services to complete platforms, the enterprise IoT startup ecosystem includes all aspects of enterprise IoT solutions.
+
+
+
+
+
+
+The rise of the number of startups targeting enterprise IoT scenarios is driving a lot of innovation in the space and forcing the big enterprise platform vendors to keep innovating. However, the amount of new offerings have crowded the enterprise IoT space making it highly difficult for enterprises to select technologies to power their IoT solutions.
+
+Active M&A environment
+
+2015 was a very active year in terms of mergers and acquisitions in the enterprise IoT space. Some reports claim over $1.2B deployed in M&A activity related to enterprise IoT solutions. Citrix acquiring Octoblu, and Amazon acquiring 2lemetry are some of the key examples of M&A activity in the enterprise IoT system. As the enterprise IoT ecosystem continues to evolve, we should expect to see an increase in the M&A activity as well.
+
+Evaluating enterprise IoT solutions in 2016: A market taxonomy
+
+As enterprises start their IoT efforts in 2016 they will be faced with an overwhelming number of options for technologies and platforms. However, there are 5 main categories that effectively covered most of the enterprise IoT technologies in the space and can help enterprises in their evaluation of enterprise IoT technologies.
+
+PaaS IoT platforms
+
+As mentioned in a previous section, the incumbent PaaS vendors currently include complete IoT platforms as part of their offerings. This model allows enterprises to build IoT solutions that not only leverage IoT specific services, such as device management or stream analytics, but also take advantage of infrastructure services included in PaaS solutions. When evaluating IoT PaaS solutions, enterprises should consider the following elements:
+
+
+
+Resources A
+
+
+ 
+White Paper
+
+Achieving Prolific Productivity with SAAS 
+
+
+
+ 
+White Paper
+
+Affordable, Scalable, Reliable OLTP in a Cloud and Big Data World 
+
+
+See All 
+
+    Go 
+•Strengths: IoT PaaS offerings are a very attractive solution for enterprises which are already leveraging PaaS solutions such as AWS, Azure, Bluemix, Salesforce.com, etc. The combination of IoT specific with infrastructure and platform services enables the implementation of very sophisticated IoT solutions using a single technology stack.
+•Weaknesses: As any general purpose solution, PaaS IoT platforms are not likely to include vertical-specific capabilities or even distribution models that are relevant to specific industries. Additionally, the fact that these platforms work exclusively in a public or hybrid cloud model can still be considered a challenge in many industries.
+•Some Relevant Examples: AWS IoT, Azure IoT Suite, Salesforce IoT Cloud and IBM IoT Foundation are some of the PaaS IoT platforms that could be relevant to enterprises in 2016.
+
+Standalone IoT platforms
+
+This category includes some of the early IoT platforms in the space which focus on providing backend and infrastructure capabilities to enterprise IoT solutions. Differently from the PaaS IoT group, these solutions are commercialized as independent IoT platforms with no defined dependencies on any PaaS solution. When evaluating this type of IoT solution, enterprises should consider the following elements:
+•Strengths: As early IoT platforms in the space, this group has managed to be relevant within the early adopters of enterprise IoT solutions. From this perspective, these types of platforms typically include many relevant use cases or even industry specific capabilities derived from their experience in real world implementations.
+•Weaknesses: Compared to the IoT PaaS solutions, standalone IoT platforms can seem more limited as they don’t include general purpose services which can be relevant in enterprise IoT solutions. Additionally, these types of platforms typically require a decent amount of professional services as they still haven’t built sizable communities of developer or solution implementers.
+•Some Relevant Vendors: Xively, ThingWorx and Jasper are some examples of standalone IoT platforms that should be relevant in the enterprise in 2016.
+
+
+
+Popular On CIO.comA
+pcw browsers primary 
+
+The best Web browser of 2015: Firefox, Chrome, Edge, IE, and Opera compared
+
+galaxy s6 edge plus iphone 6s plus 
+
+6 things iPhone 6s Plus does that Galaxy S6 edge+ can't
+
+football turf 
+
+The Internet of Things comes to the NFL
+
+
+IoT infrastructure services
+
+Security, stream messaging, and device management are some of the examples of infrastructure capabilities that are key to enterprise IoT solutions. Very often, enterprises don’t require a complete IoT platform, but rather need a specific service that enables a handful of capabilities in a very effective way. This role has been fulfilled by IoT infrastructure service solutions that focus on enabling a single, or a small number of, related infrastructure services in IoT solutions. When evaluating IoT infrastructure services, enterprises should consider the following factors:
+•Strengths: IoT infrastructure services are typically very specialized in the capabilities they provide including a large number of edge cases that are hard to find in general IoT platforms. Additionally, these offerings typically provide very robust and yet simple developer and DevOps experience, simplifying the experience for enterprises adopting these IoT capabilities.
+•Weaknesses: Many times a single capability product becomes a feature or a larger solution. From this perspective, enterprises can find it challenging to justify an investment in a single IoT infrastructure service solution when they can acquire more complete IoT platforms. The interoperability with other IoT platforms should also be taken into consideration when evaluating this type of IoT service, as they will likely be a component of a much broader solution.
+•Some Relevant Examples: PubNub, Mocana and Robomq are some relevant providers of standalone IoT capabilities.
+
+IoT apps or vertical solutions
+
+Like any other relevant enterprise software trend, IoT will produce a number of industry-specific solutions that can become successful by themselves. As a matter of fact, we are already seeing some of the big industrial players trying to address mainstream IoT scenarios like asset management, vehicle telemetry, smart energy consumption, etc., with specific IoT hardware-software solutions. When evaluating IoT vertical solutions, enterprises should consider some of the following factors:
+
+
+
+
+
+•Strengths: Industry-specific IoT solutions avoid many of the frictions related with the adoption of IoT solutions in the enterprise. Also, this type of solution enables many vertical specific capabilities and use cases not present in general-purpose IoT platforms, and can be really hard to build from the ground up.
+•Weaknesses: Like any other vertical solutions, enterprise IoT industry applications can be very challenging to modify and extend. The interoperability with other technologies often poses a challenge when adopting this type of solution.
+•Some Relevant Examples: GE Asset Performance Management, Intel’s In-Vehicle Solutions and Cisco’s Connected Factory are some of the relevant examples of industry-specific IoT solutions.
+
+IoT data services
+
+Data, not hardware, is the crown jewel of enterprise IoT. Processing, analyzing, and taking action based on the high volumes of data produced in an IoT infrastructure are the ultimate value drivers of enterprise IoT solutions. As a result, enterprise IoT solutions typically include data processing and analytic capabilities in areas such as stream data processing, real time analytics, etc. When evaluating IoT Data Services, enterprises should consider the following factors:
+•Strengths: IoT data services can be very effective when enabling stream processing and real time analytic capabilities. These technologies are typically optimized to work with a large number of endpoints generating large volumes of data. They can also integrate with mainstream analytic and big data platforms simplifying the adoption curve in the enterprise.
+•Weaknesses: IoT data services can be difficult to implement in enterprise scenarios. This challenge is even bigger if we are talking about technologies that are not part of mainstream big data or analytics suite.
+•Some Relevant Examples: Apache Storm, Spark Streaming, AWS Kinesis and Azure Stream Analytics.
+
+Will IoT go mainstream in 2016?
+
+I believe 2016 won’t be the year that starts the mainstream adoption of IoT technologies in the enterprise. The market remains incredibly crowded and most enterprises still haven’t developed the necessary level of knowledge and awareness of enterprise IoT solutions to become adopters. However, we think that in 2016 IoT will establish itself as a foundational piece of the next generation of enterprise software solutions. Additionally, I think the market will experience a decent level of consolidation, and this will clearly identify front-runners from second places.
+
+
+http://digibe.io/
+
+
 
 
 
